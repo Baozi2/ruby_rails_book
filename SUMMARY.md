@@ -2,3 +2,5 @@
 * [Rails](chapter1/README.md)
   * [Rails Engine](chapter1/engine.md)
   * [Rails config](chapter1/config.md)
+* [Sass](chapter2/README.md)
+  * [Sass](chapter2/sass.md)
